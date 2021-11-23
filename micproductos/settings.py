@@ -79,7 +79,7 @@ DATABASES = {
 
     'default' : {
         'ENGINE' : 'djongo',
-        'NAME' : 'productos',
+        'NAME' : 'db_productos',
         'HOST' : '127.0.0.1',
         'PORT' : '27017'
         },
